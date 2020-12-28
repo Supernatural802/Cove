@@ -1,0 +1,77 @@
+/* set your initial positions in the javascript, not the CSS, put attributes you'll not be animating here */
+
+
+/* css reflects all the divs named in the html */
+
+
+/* creates the green background box */
+
+/*
+ #temp {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    background-image: url(imgs/Frame03.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+
+} 
+*/
+
+
+
+
+
+#bk1 {
+
+    background-image: url(imgs/bk1.jpg);
+}
+
+#bk2 {
+
+    background-image: url(imgs/bk2.jpg);
+}
+
+#bk3 {
+
+    background-image: url(imgs/bk3.jpg);
+}
+
+
+
+
+
+
+#copy01 {
+    top: 14px;
+    left: 40px;
+
+}
+
+#copy02 {
+
+    top: 18px;
+    left: 27px;
+}
+
+
+
+
+
+#productShot {
+
+    background-image: url(imgs/productShot.png);
+}
+
+
+
+#logo01 {
+
+    background-image: url(imgs/logo01.png);
+}
+
+#logo01_dropShadow {
+
+    background-image: url(imgs/logo01_dropShadow.png);
+}
